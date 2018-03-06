@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="project_25595.jnlp">
+  <information>
+    <title>project_25595</title>
+    <vendor>Bobi</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="lib\xstream.jar" size="261710" download="eager" />
+    <jar href="project_25595.jar" size="40622" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="project_25595" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="client_part.StartWindow"  name="project_25595" />
+  <update check="always"/>
+</jnlp>
