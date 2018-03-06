@@ -1,0 +1,132 @@
+<list>
+  <com.Tokenizer>
+    <creditCardNum>4563960122019991</creditCardNum>
+    <token>007326895959991</token>
+    <rand serialization="custom">
+      <java.util.Random>
+        <default>
+          <seed>112219015219082</seed>
+          <nextNextGaussian>0.0</nextNextGaussian>
+          <haveNextNextGaussian>false</haveNextNextGaussian>
+        </default>
+      </java.util.Random>
+    </rand>
+  </com.Tokenizer>
+  <com.Tokenizer>
+    <creditCardNum>4563960122019991</creditCardNum>
+    <token>260804069699991</token>
+    <rand serialization="custom">
+      <java.util.Random>
+        <default>
+          <seed>49722669206104</seed>
+          <nextNextGaussian>0.0</nextNextGaussian>
+          <haveNextNextGaussian>false</haveNextNextGaussian>
+        </default>
+      </java.util.Random>
+    </rand>
+  </com.Tokenizer>
+  <com.Tokenizer>
+    <creditCardNum>4563960122019991</creditCardNum>
+    <token>1321102494149991</token>
+    <rand serialization="custom">
+      <java.util.Random>
+        <default>
+          <seed>229411976750221</seed>
+          <nextNextGaussian>0.0</nextNextGaussian>
+          <haveNextNextGaussian>false</haveNextNextGaussian>
+        </default>
+      </java.util.Random>
+    </rand>
+  </com.Tokenizer>
+  <com.Tokenizer>
+    <creditCardNum>5563960122019991</creditCardNum>
+    <token>8718050869469991</token>
+    <rand serialization="custom">
+      <java.util.Random>
+        <default>
+          <seed>81311489332607</seed>
+          <nextNextGaussian>0.0</nextNextGaussian>
+          <haveNextNextGaussian>false</haveNextNextGaussian>
+        </default>
+      </java.util.Random>
+    </rand>
+  </com.Tokenizer>
+  <com.Tokenizer>
+    <creditCardNum>3563960122019991</creditCardNum>
+    <token>7664461422009991</token>
+    <rand serialization="custom">
+      <java.util.Random>
+        <default>
+          <seed>18318777559687</seed>
+          <nextNextGaussian>0.0</nextNextGaussian>
+          <haveNextNextGaussian>false</haveNextNextGaussian>
+        </default>
+      </java.util.Random>
+    </rand>
+  </com.Tokenizer>
+  <com.Tokenizer>
+    <creditCardNum>4563960122019991</creditCardNum>
+    <token></token>
+    <rand serialization="custom">
+      <java.util.Random>
+        <default>
+          <seed>214811351570360</seed>
+          <nextNextGaussian>0.0</nextNextGaussian>
+          <haveNextNextGaussian>false</haveNextNextGaussian>
+        </default>
+      </java.util.Random>
+    </rand>
+  </com.Tokenizer>
+  <com.Tokenizer>
+    <creditCardNum>4563960122019991</creditCardNum>
+    <token>1109098146949991</token>
+    <rand serialization="custom">
+      <java.util.Random>
+        <default>
+          <seed>147642198986625</seed>
+          <nextNextGaussian>0.0</nextNextGaussian>
+          <haveNextNextGaussian>false</haveNextNextGaussian>
+        </default>
+      </java.util.Random>
+    </rand>
+  </com.Tokenizer>
+  <com.Tokenizer>
+    <creditCardNum>4563960122019991</creditCardNum>
+    <token>1781579478329991</token>
+    <rand serialization="custom">
+      <java.util.Random>
+        <default>
+          <seed>242740038539179</seed>
+          <nextNextGaussian>0.0</nextNextGaussian>
+          <haveNextNextGaussian>false</haveNextNextGaussian>
+        </default>
+      </java.util.Random>
+    </rand>
+  </com.Tokenizer>
+  <com.Tokenizer>
+    <creditCardNum>4563960122019991</creditCardNum>
+    <token>2089480534369991</token>
+    <rand serialization="custom">
+      <java.util.Random>
+        <default>
+          <seed>47151236580744</seed>
+          <nextNextGaussian>0.0</nextNextGaussian>
+          <haveNextNextGaussian>false</haveNextNextGaussian>
+        </default>
+      </java.util.Random>
+    </rand>
+  </com.Tokenizer>
+  <com.Tokenizer>
+    <creditCardNum>4563960122019991</creditCardNum>
+    <token>8474508422269991</token>
+    <rand serialization="custom">
+      <java.util.Random>
+        <default>
+          <seed>253826464015888</seed>
+          <nextNextGaussian>0.0</nextNextGaussian>
+          <haveNextNextGaussian>false</haveNextNextGaussian>
+        </default>
+      </java.util.Random>
+    </rand>
+  </com.Tokenizer>
+</list>

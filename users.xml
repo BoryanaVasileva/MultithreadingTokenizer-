@@ -1,0 +1,20 @@
+<linked-list>
+  <com.User>
+    <name>Boryana Nikolaeva Vasileva</name>
+    <email>bnv@fmi.uni-sofia.bg</email>
+    <pass>Boryana9#</pass>
+    <rights>true</rights>
+  </com.User>
+  <com.User>
+    <name>Kiril Tomov Petrov</name>
+    <email>kiril@mail.bg</email>
+    <pass>Parola1@#</pass>
+    <rights>false</rights>
+  </com.User>
+  <com.User>
+    <name>Boryana Nikolaeva Vasileva</name>
+    <email>bnv1@fmi.uni-sofia.bg</email>
+    <pass>Boryanan9#</pass>
+    <rights>true</rights>
+  </com.User>
+</linked-list>
